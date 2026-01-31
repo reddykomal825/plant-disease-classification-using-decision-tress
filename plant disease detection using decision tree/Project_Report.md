@@ -2,7 +2,7 @@ PROJECT REPORT ON PLANT DISEASE CLASSIFICATION USING DECISION TREE
 
 Submitted by:komal reddy 
 
-Degree:
+college: vaagdevi degree college
 
 
 Department: Computer Science and Engineering  
@@ -450,5 +450,6 @@ This project serves as a strong foundation. With future integration of image pro
 
 
 *End of Project Report*
+
 
 
